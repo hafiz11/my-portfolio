@@ -1,0 +1,140 @@
+ @media (min-width:1200px) {
+        .header_section .social_mobile {
+            opacity: 0:
+        }
+     .header_section .social_mobile {
+            opacity: 0;
+        }
+    }
+
+
+ @media (max-width:1199px) {
+        .heading h1 {
+            font-size: 70px;
+        }
+
+        .heading span {
+            font-size: 120px;
+            margin-top: -13%;
+        }
+     .header_section .social_mobile {
+            opacity: 0;
+        }
+    }
+
+ @media (max-width:992px) {
+        .heading h1 {
+            font-size: 70px;
+        }
+
+        .heading span {
+            font-size: 120px;
+            margin-top: -13%;
+        }
+     .header_section .social_mobile {
+            opacity: 0;
+        }
+    }
+
+@media (max-width:767px) {
+
+    .heading h1 {
+        font-size: 50px;
+    }
+
+    .heading span {
+        font-size: 50px;
+        margin-top: -1%;
+    }
+    .header_section .social {
+        opacity: 0;
+    }
+    .header_section .social_mobile {
+            opacity: 1;
+        }
+    
+}
+
+@media (max-width:575px) {
+    
+
+    .banner_content span {
+        font-size: 30px;
+    }
+
+    .banner_content p {
+        font-size: 14px;
+    }
+
+    .btn_portfolio {
+        padding: 5px 20px;
+    }
+
+    .btn_download {
+        padding: 5px 20px;
+    }
+
+    .header_section .social_mobile {
+        opacity: 1;
+        bottom: 20%;
+    }
+
+    .about_section .heading h1 {
+        font-size: 50px;
+    }
+
+    .about_section .heading span {
+        font-size: 84px;
+    }
+
+    .heading h1 {
+        font-size: 50px;
+    }
+
+    .heading span {
+        font-size: 30px;
+        margin-top: -1%;
+    }
+
+    .skill_section h4 {
+        font-size: 24px;
+    }
+
+    .nav-tabs .nav-link {
+        padding: 0px 10px;
+        font-size: 12px;
+    }
+
+    .project {
+        padding: 10px;
+    }
+
+    .project h3 {
+        font-size: 30px;
+    }
+
+    .project h2 {
+        font-size: 27px;
+    }
+
+/*
+    @media (min-width:576px) {
+
+
+        .header_section .social_mobile {
+            opacity: 1;
+            bottom: 20%;
+        }
+
+        .header_section .social {
+            opacity: 0;
+        }
+
+    }
+*/
+
+
+   
+   
+
+   
